@@ -1,0 +1,30 @@
+dist/
+*classes
+*.class
+target/
+build/
+out/
+.classpath
+.project
+.settings
+.DS_Store
+.cache
+logs
+*.log
+unittests/
+
+
+### ignore IDEA project files ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
